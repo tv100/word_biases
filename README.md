@@ -1,6 +1,6 @@
 # Word Biases
 
-Sample Jupyter notebook used to check gender, race and religion stereotypes in public pre-trained Word2Vec models.
+Quick and simple Jupyter notebook used to check gender, race and religion stereotypes in public pre-trained Word2Vec models.
 
 For a better understanding of this subject (and some mitigating solutions) check the following paper: 
 [Man is to Computer Programmer as Woman is to
