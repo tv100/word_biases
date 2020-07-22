@@ -8,7 +8,6 @@ Homemaker? Debiasing Word Embeddings](http://papers.nips.cc/paper/6228-man-is-to
 Tolga Bolukbasi, Kai-Wei Chang, James Zou, Venkatesh Saligrama, and Adam Kalai. Proceedings of [NIPS 2016](https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings), https://github.com/tolga-b/debiaswe
 
 Pre-trained Word2Vec models are available in several places. Pay attention to the license terms for each distribution. 
-- https://www.kaggle.com/
 - [Google's original model: Long-term storage for Google Code Project Hosting](https://code.google.com/archive/p/word2vec/)
 - [Stanford NLP's GloVe - Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
 - [fastText - Word vectors for 157 languages](https://fasttext.cc/docs/en/crawl-vectors.html)
